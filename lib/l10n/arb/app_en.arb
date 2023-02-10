@@ -1,0 +1,299 @@
+{
+    "@@locale": "en",
+
+    "app_name":"Brainnote",
+    "title_activity_home":"HomeActivity",
+
+    "btn_done":"Done",
+    "common_name":"Name",
+    "common_undefined":"No input",
+    "toast_connect_fail":"Failed to connect to server",
+
+    "toast_meeting_aborted":"Meeting stopped",
+    "toast_record_aborted":"Recording stopped",
+    "toast_audio_download_failed":"Failed to download the audio",
+    "toast_disconnected":"Disconnected to the server",
+
+    "summary_record_abort":"[Status: transcription cancel]",
+    "summary_upload_fail":"[Status: data upload incomplete]",
+    "summary_download_fail":"[Status: data upload completion]",
+
+    "note_new_meeting":"New meeting",
+    "note_new_meeting_time_format":"MMdd-HHmmss",
+
+    "time_label_minutes_ago":"min ago",
+    "time_label_hours_ago":"hours ago",
+    "time_label_general":"yy/MM/dd",
+
+    "tv_main_ask_name":"Please enter a name to use in the service",
+    "btn_main_start":"Start",
+
+    "dlg_connect_fail_heading":"Server connection error",
+    "dlg_connect_fail_caption":"The app is shutting down due to network issues.",
+    "dlg_connect_fail_quit":"Quit app",
+
+    "dlg_mic_permission_heading":"Recording permission",
+    "dlg_mic_permission_caption":"Microphone permission is required to start a meeting. Do you channge it?",
+    "dlg_mic_permission_quit":"Change",
+
+    "dlg_service_restrict_heading":"New meeting disallowed",
+    "dlg_service_restrict_caption":"Please, wait for converting the last meeting audio to text.",
+
+    "dlg_usage_timeout_heading":"No remaining usage time",
+    "dlg_usage_timeout_caption":"No new meeting is allowed.",
+
+    "svc_noti_new_meeting":"Create meeting...",
+    "svc_noti_join_meeting":"Join meeting...",
+    "svc_noti_recording":"Recording...",
+    "svc_noti_minutes":"Processing...",
+    "svc_noti_svc_finish":"서비스 종료",
+
+    "prog_msg_sending":"Sending data...",
+    "prog_msg_processing":"Processing...",
+    "prog_msg_audio_receiving":"Receiving audio...",
+    "prog_msg_receiving":"Receiving data...",
+
+    "toast_send_fail":"Data transmission failed. Please, try again after a while.",
+    "toast_receive_fail":"Data reception failed. Please, try again after a while.",
+    "toast_network_fail":"Service stopped due to network error",
+    "toast_connection_fail":"Unable to connect to server",
+
+    "tv_nm_guide":"Up to 3 including yourself, 3 devices can join the meeting",
+
+    "dlg_quit_meeting_host_heading":"Leave the meeting?",
+    "dlg_quit_meeting_host_caption":"This meeting stops when you leave the meeting",
+
+    "tv_participant_name":"[dummy] Participant",
+    "tv_host_icon":"Host",
+
+    "tv_nmh_recorder_list":"Phones in recording",
+    "tv_nmh_recorder_list_expl":"Up to 3 phones, including your phone, can join the meeting",
+    "tv_nmh_invite_caption1":"Invite other phones to improve accuracy",
+    "tv_nmh_invite_caption2":"Please share the participation code below",
+    "tv_nmh_invite_caption3":"No more participant possible",
+
+    "tv_join_heading":"Please enter the 4 digit code to join the meeting",
+    "btn_join_meeting":"Join a meeting",
+
+    "dlg_join_fail_0_heading":"Unknown error occurred",
+    "dlg_join_fail_0_caption":"Meeting aborted because of unknown error in server",
+
+    "dlg_join_fail_1_heading":"Invalid meeting code",
+    "dlg_join_fail_1_caption":"Non-existing code entered",
+
+    "dlg_join_fail_2_heading":"List is full",
+    "dlg_join_fail_2_caption":"Up to 3 mobile phones can participate in the meeting",
+
+    "dlg_join_fail_3_heading":"Meeting started already",
+    "dlg_join_fail_3_caption":"Cannot joint the meeting because it has already started",
+
+    "dlg_exit_join_heading":"Do you want to quit?",
+    "dlg_exit_join_caption":"Even if you leave the meeting, you can rejoin by entering the join code.",
+
+    "tv_recorder_list":"Phones in recording",
+    "tv_recorder_list_expl":"Up to 3 devices, including yourself, can join the meeting.",
+    "tv_new_meeting_parti_message":"Waiting the host starts the meeting",
+
+    "dlg_quit_meeting_parti_heading":"Do you want to quit?",
+    "dlg_quit_meeting_parti_caption":"Even if you leave the meeting, you can rejoin by entering the join code.",
+
+    "dlg_record_abort_heading":"Do you want to quit?",
+    "dlg_record_abort_caption":"Even if you leave the meeting, you can rejoin by entering the join code.",
+    "dlg_record_abort_quit":"Yes",
+
+    "tv_sp_heading":"How many people are in the meeting?",
+    "tv_sp_caption":"please select the total number of people attending the meeting",
+    "btn_sp_start_meeting":"Start",
+
+    "tv_guide_1_1_1_caption":"As shown in the picture, place the phone's bottom microphone facing the front of each participant.",
+    "tv_guide_1_1_2_caption":"Please place the phone close to the speaker.",
+
+    "tv_guide_1_2_1_caption":"As shown in the picture, place the phone's bottom microphone facing the front of each participant.",
+    "tv_guide_1_2_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_1_3_1_caption":"As shown in the picture, the top and bottom microphones are placed facing the front of each participant, and the other participants are positioned vertically on the mobile phone.",
+    "tv_guide_1_3_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_2_2_1_caption":"As shown in the picture, place the phone's bottom microphone facing the front of each participant.",
+    "tv_guide_2_2_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_2_3_1_caption":"As shown in the picture, place the mobile phones so that one microphone per attendee is close by.",
+    "tv_guide_2_3_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_2_4_1_caption":"Place the top and bottom microphones of each of the 2 cell phones facing the front of the 4 participants as shown.",
+    "tv_guide_2_4_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+
+    "tv_guide_3_3_1_caption":"Place the bottom microphone of each mobile phone facing the front of the 3 participants as shown.",
+    "tv_guide_3_3_2_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_3_4_1_caption":"As shown in the picture, place the mobile phones so that one microphone per attendee is close by.",
+    "tv_guide_3_4_2_caption":"Place one mobile phone with the top and bottom microphones facing each of the two participants, and the other two phones with the bottom microphones facing the other two participants.",
+    "tv_guide_3_4_3_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_3_5_1_caption":"As shown in the picture, place the mobile phones so that one microphone per attendee is close by.",
+    "tv_guide_3_5_2_caption":"Place two mobile phones with the top and bottom microphones facing each of the two attendees, and one cell phone with the bottom microphone facing the other participant.",
+    "tv_guide_3_5_3_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_guide_3_6_1_caption":"As shown in the picture, place the mobile phones so that one microphone per attendee is close by.",
+    "tv_guide_3_6_2_caption":"Place the top and bottom microphones of the three cell phones facing each of six attendees.",
+    "tv_guide_3_6_3_caption":"Please do not change the location and orientation of each mobile phone significantly during recording.",
+
+    "tv_phone_arrangement_top_mic":"Top microphone",
+    "tv_phone_arrangement_bottom_mic":"Bottom microphone",
+
+    "toast_max_rec_warning":"Recording ends automatically after 5 minutes",
+    "toast_max_rec_autostop":"End recording at maximum recording time",
+
+    "dlg_meeting_stop_heading":"Shall we end the meeting?",
+    "dlg_meeting_stop_caption":"Pressing End converts the recording directly into a text transcript. Press Cancel to continue the meeting.",
+    "dlg_meeting_stop_quit":"Yes",
+
+    "dlg_meeting_abort_heading":"Are you sure?",
+    "dlg_meeting_abort_caption":"Even though it is cancelled, what recorded so far is stored.",
+    "dlg_meeting_abort_quit":"Yes",
+
+    "btn_rec_cancel":"Cancel",
+    "tv_rec_meeting_title":"[Dummy]New meeting N",
+    "tv_rec_time":"00:00:00",
+    "tv_rec_caption":"Recording",
+    "tv_rec_recorders":"Phones in recording",
+
+    "tv_ml_heading":"Meetings",
+    "tv_ml_empty_message":"No meetings",
+    "tv_ml_delete_meeting":"Delete",
+
+    "dlg_upload_retry_heading":"Retry to upload",
+    "dlg_upload_retry_caption":"re-upload the data to the server?",
+    "dlg_upload_retry_ok":"Retry to upload",
+
+    "dlg_process_retry_heading":"Retry data processing",
+    "dlg_process_retry_caption":"Re-request data processing to server?",
+    "dlg_process_retry_ok":"Data processing",
+
+    "dlg_req_userinfo_heading":"Enter my information and verify your email",
+    "dlg_req_userinfo_caption":"Please, input your email to share meeting minutes",
+    "dlg_req_userinfo_ok":"Enter my info",
+
+    "dlg_auth_wait_heading":"Email verification in progress",
+    "dlg_auth_wait_caption":"Please, complete email verification to share content",
+
+    "dlg_auth_fail_heading":"Email verification failed",
+    "dlg_auth_fail_caption":"Your email verification has failed. Please, try it again.",
+
+    "btn_share_icon":"Share",
+    "tv_mix_audio_title":"All",
+    "tv_min_curr_time":"aa:bb:cc",
+    "tv_min_end_time":"xx:yy:zz",
+    "tv_min_elapsed_time_N_meeting_time":"0 minutes ago • 00:00:00",
+    "tv_min_start_end_time":"00:00 – 00:00",
+    "tv_min_content":"[Dummy] Block content",
+
+    "tv_wch_heading":"Converting speech to text",
+    "tv_wch_caption":"Please, wait.",
+
+    "tv_edit_username_heading":"Rename",
+    "btn_edit_username_done":"Save",
+
+    "tv_channel_menu_heading":"Play by participant",
+    "tv_channel_audio_title":"[Dummy] Participant",
+
+    "tv_share_heading":"Share",
+    "tv_share_caption":"Select data to share",
+    "tv_share_minutes":"Transcription",
+    "tv_share_audio":"All audio",
+    "tv_share_user_audio":"Each channel audio",
+
+    "tv_usage_time_unit":"Minutes",
+    "tv_title_info":"Info",
+    "tv_usage_time":"Usage time",
+
+    "tv_user_name":"[Dummy] Tommy",
+    "btn_User_info_edit":"Update",
+    "tv_item_name":"Name",
+    "tv_item_email":"email",
+    "btn_item_email_cert":"certification",
+    "tv_item_birthyear":"Birth year",
+    "tv_item_birthyear_hint":"1990",
+    "tv_item_gender":"Gender",
+    "tv_item_gender_hint":"Select",
+    "tv_item_null":"",
+
+    "tv_item_recog_lang":"Recognition language",
+    "tv_item_app_guide":"Usage guide",
+    "tv_item_notice":"Notice",
+    "tv_item_service_info":"Service Info",
+    "tv_item_version":"App version",
+    "tv_item_version_number":"0.00",
+    "tv_item_review":"Review",
+    "btn_item_update":"Update",
+
+    "tv_edit_recog_lang_heading":"Edit Recognition Language",
+    "tv_edit_recog_lang_caption":"Edit Recognition Language.",
+
+    "recog_lang_korean":"Korean",
+    "recog_lang_english":"English",
+
+    "toast_mail_sent":"A verification email has been sent. It might take a few minutes to receive it. If it is not found in your email box, please, check your spam email box.",
+
+    "tv_edit_title":"Edit personal information",
+
+    "tv_edit_birthyear_heading":"Select birthyear",
+    "tv_edit_birthyear_caption":"It will be used for increasing user convenience",
+
+    "tv_edit_gender_heading":"Select gender",
+    "tv_edit_gender_caption":" ",
+
+    "gender_male":"Male",
+    "gender_female":"Female",
+
+    "invalid_email":"Invalid email address!",
+
+    "tv_title_app_guide":"@string/tv_item_app_guide",
+
+    "tv_phone_integrated_guide":"Phone connecting guide",
+    "tv_phone_integrated_expl":"2 or 3 phones can be linked to record audio.",
+    "tv_phone_integrated_expl_1":"When connecting a mobile phone, start the BrainNote app on the host's phone and select [New Meeting] and click the [Invite Meeting] button. A 4-digit participation code will appear on the screen.",
+    "tv_phone_integrated_expl_2":"Start the BrainNote app on another mobile phone to be linked and press the Join button with the code.    A 4-digit code input box to join the meeting appears. Please enter the code generated by the host. A list of phones linked appears.",
+    "tv_phone_integrated_expl_3":"When the host starts a meeting, voice recording begins on all linked mobile phones.",
+
+    "tv_phone_arrangement_guide":"Mobile phone placement guide",
+    "tv_phone_arrangement_expl":"Brainnote uses the top and bottom microphones built into your phone.",
+    "tv_phone_arrangement_device":"Phones in recording",
+    "tv_phone_arrangement_device_1":"1 phone",
+    "tv_phone_arrangement_device_2":"2 phones",
+    "tv_phone_arrangement_device_3":"3 phones",
+
+    "tv_phone_arrangement_title_1_1":"Recording by one person with 1 mobile phone",
+    "tv_phone_arrangement_title_1_2":"Recording by 2 people with 1 mobile phone",
+    "tv_phone_arrangement_title_1_3":"Recording by 3 people with 1 mobile phone",
+
+    "tv_phone_arrangement_title_2_2":"Recording by 2 people with 2 mobile phones",
+    "tv_phone_arrangement_title_2_3":"Recording by 3 people with 2 mobile phones",
+    "tv_phone_arrangement_title_2_4":"Recording by 4 people with 2 mobile phones",
+
+    "tv_phone_arrangement_title_3_3":"Recording by 3 people with 3 mobile phones",
+    "tv_phone_arrangement_title_3_4":"Recording by 4 people with 3 mobile phones",
+    "tv_phone_arrangement_title_3_5":"Recording by 5 people with 3 mobile phones",
+    "tv_phone_arrangement_title_3_6":"Recording by 6 people with 3 mobile phones",
+
+    "tv_title_notice":"Notice",
+    "tv_notice_content":"[Dummy] Content of notice",
+
+    "tv_title_service_info":"@string/tv_item_service_info",
+    "tv_sub_service_agreement":"Terms of service",
+    "tv_sub_private_policy":"Privay policy",
+    "tv_sub_oss":"Open source license",
+
+    "tv_title_dev":"Developer menu",
+    "et_ip_hint":"https://minutes.brainsoft.ai",
+
+    "tv_alert_heading":"[Dummy] Warning dialog title",
+    "tv_alert_caption":"[Dummy] warning dialog guide",
+    "btn_global_close":"Close",
+
+    "tv_confirm_heading":"[Dummy] Confirmation dialog title",
+    "tv_conform_caption":"[Dummy] Confirmation dialog guide",
+    "btn_global_cancel":"No",
+    "btn_global_quit":"Exit"
+}
